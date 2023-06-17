@@ -1,5 +1,5 @@
 import React from 'react';
-import videoFile from './assets/parking_demo.MP4'; // Replace with your actual video file or GIF
+import videoFile from './assets/parking_demo_example.MP4'; // Replace with your actual video file or GIF
 import { useRef } from 'react';
 
 function VideoComponent() {
