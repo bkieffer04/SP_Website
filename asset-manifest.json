@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/react-gh-pages/static/js/main.25fe0829.js",
-    "static/js/787.4aaca721.chunk.js": "/react-gh-pages/static/js/787.4aaca721.chunk.js",
-    "static/media/parking_demo_example.MP4": "/react-gh-pages/static/media/parking_demo_example.f753c9606cd166dc7062.MP4",
-    "static/media/brian_photo.png": "/react-gh-pages/static/media/brian_photo.552ee85f2989ca33298e.png",
-    "static/media/kaely_headshot.png": "/react-gh-pages/static/media/kaely_headshot.7c93fb8444974f7df2c1.png",
-    "static/media/business_logo.png": "/react-gh-pages/static/media/business_logo.101ccf51dbb9b022b753.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
-    "main.25fe0829.js.map": "/react-gh-pages/static/js/main.25fe0829.js.map",
-    "787.4aaca721.chunk.js.map": "/react-gh-pages/static/js/787.4aaca721.chunk.js.map"
+    "main.css": "/SP_Website/static/css/main.e6c13ad2.css",
+    "main.js": "/SP_Website/static/js/main.d9e90d16.js",
+    "static/js/787.4aaca721.chunk.js": "/SP_Website/static/js/787.4aaca721.chunk.js",
+    "static/media/parking_demo_example.MP4": "/SP_Website/static/media/parking_demo_example.f753c9606cd166dc7062.MP4",
+    "static/media/brian_photo.png": "/SP_Website/static/media/brian_photo.552ee85f2989ca33298e.png",
+    "static/media/kaely_headshot.png": "/SP_Website/static/media/kaely_headshot.7c93fb8444974f7df2c1.png",
+    "static/media/business_logo.png": "/SP_Website/static/media/business_logo.101ccf51dbb9b022b753.png",
+    "index.html": "/SP_Website/index.html",
+    "main.e6c13ad2.css.map": "/SP_Website/static/css/main.e6c13ad2.css.map",
+    "main.d9e90d16.js.map": "/SP_Website/static/js/main.d9e90d16.js.map",
+    "787.4aaca721.chunk.js.map": "/SP_Website/static/js/787.4aaca721.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.25fe0829.js"
+    "static/js/main.d9e90d16.js"
   ]
 }
